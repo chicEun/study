@@ -1,1 +1,7 @@
+ul > li {
+   list-style: none;
+}
 
+li:nth-of-type(1) {
+    color: red;
+}
